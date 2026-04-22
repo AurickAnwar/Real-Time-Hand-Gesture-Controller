@@ -1,0 +1,4 @@
+mpenv/
+__pycache__/
+*.pyc
+desktop.ini
