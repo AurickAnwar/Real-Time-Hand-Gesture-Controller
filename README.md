@@ -63,11 +63,11 @@ python HandGestureControl.py
 - `HandInstructions.png`: Instruction image shown with `i`
 - `HandGestureControl.jpg`: Sample/saved output image
 
-## 🚀 Demo
+
 
 ## 🚀 Demo
 
-![Preview](https://img.youtube.com/vi/B-A5uHzQIgI/0.jpg)
+![Preview](https://img.youtube.com/vi/87QTKgbuSko/0.jpg)
 
 ▶️ Full Demo: https://www.youtube.com/watch?v=87QTKgbuSko
 
