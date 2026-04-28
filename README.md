@@ -65,7 +65,10 @@ python HandGestureControl.py
 
 ## 🚀 Demo
 
-[![Hand Gesture Demo](https://img.youtube.com/vi/87QTKgbuSko/0.jpg)](https://www.youtube.com/watch?v=87QTKgbuSko)
+## 🚀 Demo
+
+![Preview](https://img.youtube.com/vi/B-A5uHzQIgI/0.jpg)
+
 ▶️ Full Demo: https://www.youtube.com/watch?v=87QTKgbuSko
 
 
