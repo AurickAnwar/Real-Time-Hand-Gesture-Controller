@@ -65,9 +65,5 @@ python HandGestureControl.py
 
 ## 🚀 Demo
 
-### 🎯 Shot Predictor
-[![Demo 1](https://img.youtube.com/vi/B-A5uHzQIgI/0.jpg)](https://www.youtube.com/watch?v=B-A5uHzQIgI)
-
-### 🏀 Detection + Tracking
-[![Demo 2](https://img.youtube.com/vi/87QTKgbuSko/0.jpg)](https://www.youtube.com/watch?v=87QTKgbuSko)
+[![Hand Gesture Demo](https://img.youtube.com/vi/87QTKgbuSko/0.jpg)](https://www.youtube.com/watch?v=87QTKgbuSko))
 
